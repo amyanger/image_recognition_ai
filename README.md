@@ -15,7 +15,7 @@ An intelligent image classification tool using **MobileNetV2**, **TensorFlow**, 
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/arjun-myanger/image_recognition_ai.git
+git clone https://github.com/amyanger/image_recognition_ai.git
 cd image_recognition_ai
 ```
 
